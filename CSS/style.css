@@ -114,3 +114,10 @@
   .page-content .reset-items i:hover {
     text-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
   }
+
+  .myStyle {
+    font: 'seogeUI' 60px/1.6 normal;
+    color: rosybrown;
+    background-color: rgba(47, 216, 162, 0.701);
+    text-shadow: 2px 2px royalblue;
+  }
