@@ -17,3 +17,5 @@ document.querySelector('h1').setAttribute('class','todo-list-element');
 document.querySelector('h1').style.backgroundColor = "red";
 document.querySelector('h1').className='myStyle';
 document.querySelector('li').classList;
+document.querySelector('li').classList.add('unga bunga');
+document.querySelector('li').classList.remove('unga');
